@@ -1,22 +1,22 @@
 # Hi, I'm Lan Nguyen Duc 👋
 
-### AI Engineering student focused on data, machine learning, and practical AI systems
+### AI & Data Engineer in progress, focused on machine learning and practical AI systems
 
-I am a third-year Artificial Intelligence student at FPT University, interested in turning data into insight and machine learning ideas into useful solutions.
+I am a third-year Artificial Intelligence student at FPT University, growing toward AI & Data Engineering through data analysis, machine learning, and practical AI applications.
 
 ## About me
 
 - 🎓 Studying Artificial Intelligence at FPT University
 - 📊 Focused on data analysis, machine learning, NLP, and computer vision
 - 🧠 Strongest in Python-based AI/Data work
-- 🧱 Comfortable with core software engineering fundamentals and collaborative workflows
+- 🧱 Familiar with core software engineering fundamentals and collaborative workflows
 - ☁️ Previously trained in AWS cloud fundamentals through the FCJ AWS Cloud Program
 
 ## Current direction
 
 I am growing toward roles in:
 
-- Data Analysis
+- Data Engineering
 - Machine Learning
 - AI Engineering
 
